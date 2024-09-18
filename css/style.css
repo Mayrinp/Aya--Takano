@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+* {margin: 0; padding: 0;}
+body {background-color: rgba(190,116,137,1.00);}
+.ligth {background-color: rgba(24,115,139,1.00); width: 800px;
+margin: 0 auto; padding: 50px; margin-top: 50px;}
+h1 {color:#FDEFD7; text-align: center;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";}
+h2 { color:#FDEFD7;  text-align: center; font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	
+}
